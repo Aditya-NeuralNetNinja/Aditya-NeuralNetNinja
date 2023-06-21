@@ -47,6 +47,11 @@ Lifelong Learner | Data Enthusiast | ML/DL Aspirant
 * [Learning Projects 🚀🧠📚](https://github.com/Aditya-NeuralNetNinja/Learning-Projects)
 In this repository, I document my journey into the thrilling world of Data Science, Machine Learning, and Deep Learning, creating a valuable resource for other eager learners embarking on their journey in the field. 
 
+### Let's Connect
+
+* 📎 If my journey resonates with you, feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/aditya-chourasiya/) or write to me at adityachrs7@gmail.com
+Let's explore this exciting world of data and technology together!
+
 ### Support Me
 
 <a href="https://www.buymeacoffee.com/Aditya-NeuralNetNinja"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
