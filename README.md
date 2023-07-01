@@ -51,7 +51,3 @@ In this repository, I document my journey into the thrilling world of Data Scien
 
 * 📎 If my journey resonates with you, feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/aditya-chourasiya/) or write to me at adityachrs7@gmail.com
 Let's explore this exciting world of data and technology together!
-
-### Support Me
-
-<a href="https://www.buymeacoffee.com/Aditya-NeuralNetNinja"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
