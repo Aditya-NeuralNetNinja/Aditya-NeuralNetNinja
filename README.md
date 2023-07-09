@@ -45,7 +45,10 @@ Lifelong Learner | Data Enthusiast | ML/DL Aspirant
 ### Top Repositories
 
 * [Learning Projects 🚀🧠📚](https://github.com/Aditya-NeuralNetNinja/Learning-Projects)
-In this repository, I document my journey into the thrilling world of Data Science, Machine Learning, and Deep Learning, creating a valuable resource for other eager learners embarking on their journey in the field. 
+In this repository, I document my journey into the thrilling world of Data Science, Machine Learning, and Deep Learning, creating a valuable resource for other eager learners embarking on their journey in the field.
+
+* [Flagship Projects 🎯💻🔬](https://github.com/Aditya-NeuralNetNinja/Flagship-Projects)
+This repository comprises of projects that exhibit my current understanding and practical applications in Machine Learning, Deep Learning, and Data Science. Dive in to explore my learning journey.
 
 ### Let's Connect
 
