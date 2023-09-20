@@ -28,19 +28,9 @@ Lifelong Learner | Data Enthusiast | ML/DL Aspirant
 
 <p align="left"> <a href="https://www.github.com/Aditya-NeuralNetNinja" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/aditya-chourasiya/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
 
-### Badges
-
-<b>My GitHub Stats</b>
-
-<a href="http://www.github.com/Aditya-NeuralNetNinja">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Aditya-NeuralNetNinja&stroke=ffffff&background=000000&ring=facc15&fire=facc15&currStreakNum=ffffff&currStreakLabel=facc15&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" alt="Aditya's GitHub Stats" />
-</a>
-
 <a href="https://github.com/Aditya-NeuralNetNinja">
   <img align="center" src="https://komarev.com/ghpvc/?username=Aditya-NeuralNetNinja&color=brightgreen&style=flat-square" alt="Profile Views" />
 </a>
-
-
 
 ### Top Repositories
 
