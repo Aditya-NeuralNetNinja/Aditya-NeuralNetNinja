@@ -23,6 +23,14 @@ Lifelong Learner | Data Enthusiast | ML/DL Aspirant
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
 </p>
 
+### Badges
+
+<b>My GitHub Stats</b>
+
+<a href="http://www.github.com/Aditya-NeuralNetNinja">
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Aditya-NeuralNetNinja&stroke=ffffff&background=000000&ring=facc15&fire=facc15&currStreakNum=ffffff&currStreakLabel=facc15&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" alt="Aditya's GitHub Stats" />
+</a>
+
 
 ### Socials
 
@@ -39,6 +47,7 @@ This repository comprises of projects that exhibit my current understanding and 
 
 * [Learning Projects 🚀🧠📚](https://github.com/Aditya-NeuralNetNinja/Learning-Projects)
 In this repository, I document my journey into the thrilling world of Data Science, Machine Learning, and Deep Learning, creating a valuable resource for other eager learners embarking on their journey in the field.
+
 
 
 
