@@ -7,7 +7,7 @@ Lifelong Learner | Data Enthusiast | ML/DL Aspirant
 * 🌍 I'm based in India.
 * 🧠 I'm constantly deepening my understanding of statistics, and exploring the fascinating world of Machine Learning and Deep Learning.
 * ✍️ Storytelling is one of my passions; I've crafted short stories and animated them into life across various platforms.
-* 🏢 I've had the privilege of serving as General Secretary at NGO Immaculate Ideal Human Foundation, where I was part of a team that expanded the NGO's presence to over 100+ nations. I've been part of several fundraising campaigns and managed hirings and headed teams, which have been instrumental in honing my leadership and communication skills.
+* 🏢 I've had the privilege of serving as General Secretary at NGO Immaculate Ideal Human Foundation, where I was part of a team that expanded the NGO's presence to several nations. I've been part of several fundraising campaigns and managed hirings and headed teams, which have been instrumental in honing my leadership and communication skills.
 * 🔢 Mathematics has always been a key interest. My dedication to the field has been rewarded with an All India Rank of 12,089 in the IIT-JEE exam and an All India Rank of 232 in the GATE exam in 2019.
 * 🎓 I was honored to serve as a Category Leader of Engineering Mathematics for GATE aspirants at Unacademy, as my course earned the highest ratings and maximum views.
 * 🌐 The enriching experience of taking the rigorous UPSC exam thrice has enhanced my understanding of world affairs, analytical abilities, and resilience.
