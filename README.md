@@ -15,7 +15,6 @@ https://aditya1.my.canva.site/portfolio
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Aditya-NeuralNetNinja&stroke=ffffff&background=000000&ring=facc15&fire=facc15&currStreakNum=ffffff&currStreakLabel=facc15&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" alt="Aditya's GitHub Stats" />
 </a>
 
-
 ### Socials
 
 <p align="left"> <a href="https://www.github.com/Aditya-NeuralNetNinja" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/aditya-chourasiya/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
@@ -27,13 +26,10 @@ https://aditya1.my.canva.site/portfolio
 ### Top Repositories
 
 * [Flagship Projects 🎯💻🔬](https://github.com/Aditya-NeuralNetNinja/Flagship-Projects)
-This repository comprises of projects that exhibit my current understanding and practical applications in Machine Learning, Deep Learning, and Data Science.
+This repository comprises of projects that exhibit my current understanding and practical applications in Data Science / Machine Learning / Deep Learning / Generative AI
 
 * [Learning Projects 🚀🧠📚](https://github.com/Aditya-NeuralNetNinja/Learning-Projects)
 In this repository, I document my journey into the thrilling world of Data Science, Machine Learning, and Deep Learning, creating a valuable resource for other eager learners embarking on their journey in the field.
-
-
-
 
 ### Let's Connect
 
