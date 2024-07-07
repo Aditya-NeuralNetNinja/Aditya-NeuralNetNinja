@@ -5,7 +5,7 @@ AI/ML Solutions Architect @ NXTBOT | Data Science | LLM | Generative AI
 -----------------------------
 
 ### Portfolio
-https://aditya1.my.canva.site/portfolio
+https://aditya-data-portfolio.vercel.app/
 
 ### Badges
 
