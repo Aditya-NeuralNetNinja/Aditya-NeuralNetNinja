@@ -43,5 +43,5 @@ In this repository, I document my journey into the thrilling world of Data Scien
 
 ### Let's Connect
 
-📎 If my journey resonates with you, feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/aditya-chourasiya/) or write to me at adityachrs7@gmail.com
+If my journey resonates with you, feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/aditya-chourasiya/) or write to me at adityachrs7@gmail.com
 Let's explore this exciting world of data and technology together!
