@@ -5,7 +5,7 @@ AI/ML Engineer @ LeewayHertz | Data Science | LLM | Computer Vision | Generative
 -----------------------------
 
 ### Portfolio
-https://aditya-data-portfolio.vercel.app/
+https://aditya-chourasiya-portfolio.vercel.app/
 
 ### Badges
 
